@@ -1,7 +1,3 @@
-Here's a template for a GitHub README.md file for your "Be Your Own Doctor" medical app:
-
----
-
 # Be Your Own Doctor
 
 Welcome to Be Your Own Doctor! This project aims to create a data visualization tool for the "Be Your Own Doctor" medical app. 
